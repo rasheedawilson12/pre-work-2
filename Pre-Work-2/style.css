@@ -1,0 +1,64 @@
+body {
+  background-color: green;
+}
+
+header h1 {
+  text-align: center;
+  font-variant: small-caps;
+  color:white;
+}
+
+header {
+  text-align: center;
+}
+
+label {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 14px;
+  border-radius: 30px;
+  padding: 5px;
+}
+
+label {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 3px;
+}
+
+button {
+  display: block;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  margin: 8px auto;
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+
+.calc {
+  display: block;
+  margin: 0 auto;
+  background-color: lightgreen;
+  border: 5px solid black;
+  text-align: center;
+  width: 33%;
+  padding: 20px 0;
+  border-radius: 15px;
+}
+
+
+.gif {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+}
